@@ -16,15 +16,18 @@ main{
     text-align: justify;
 }
 p{
-    padding: 50px;
+   
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
 }
 
 
 
+
 #paralax1{
-    padding: 50px;
-    height: 200px;
+    padding-top: 50px;
+    padding-left: 10px;
+    height: 250px;
     width: 100vw;
     background-image: url(IMG_0399.JPG);
     background-size: cover;
@@ -35,8 +38,9 @@ p{
     
 }
 #paralax2{
-    padding: 50px;
-    height: 200px;
+    padding-top: 50px;
+    padding-left: 10px;
+    height: 250px;
     width: 100vw;
     background-image: url(IMG_0398.JPG);
     background-size: cover;
